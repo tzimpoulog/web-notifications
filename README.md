@@ -1,5 +1,5 @@
 # web-notifications
-##Simple example , How web notifiactions works
+## Simple example , How web notifiactions works using **Notification API**, **Push API** and **Service Workers**
 
 Back End
 ```
